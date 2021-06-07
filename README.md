@@ -1,5 +1,5 @@
 # RayCast Engine
-Simple 3D engine
+Simple 3D engine for game
 
 1. <code>make</code>
 2. <code>./cub3d subject_map.cub</code> or <code>./cub3d maps/subject_map.cub --save</code> to create screenshot

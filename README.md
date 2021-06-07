@@ -12,4 +12,4 @@ Simple 3D engine
 <p>d - right</p>
 <p>&#8592 - rotate left</p>
 <p>&#8594 - rotate right</p>
-![Alt Text](https://media.giphy.com/media/URQ04mBQ1MAftGXW9u/giphy.gif)
+<img src="https://media.giphy.com/media/URQ04mBQ1MAftGXW9u/giphy.gif" width="40" height="40" />

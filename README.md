@@ -13,4 +13,4 @@ Simple 3D engine
 <p>&#8592 - rotate left</br>
 <p>&#8594 - rotate right</p>
 
-<img src="https://media.giphy.com/media/URQ04mBQ1MAftGXW9u/giphy.gif" width="720" height="720"/>
+<img src="https://media.giphy.com/media/URQ04mBQ1MAftGXW9u/giphy.gif" width="720" height="600"/>

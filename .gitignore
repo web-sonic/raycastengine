@@ -1,0 +1,10 @@
+*.sh
+*.out
+*.dSYM
+.DS_Store
+*.d
+*.o
+#cub3D
+cub3d
+test.c
+/garbage_collector/*
